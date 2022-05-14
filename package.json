@@ -18,7 +18,7 @@
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0",
     "rimble-ui": "^0.14.0",
-    "solc": "^0.6.7",
+    "solc": "^0.8.13",
     "styled-components": "^5.1.1",
     "web3": "^1.2.7"
   },
